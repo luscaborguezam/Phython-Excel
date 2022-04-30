@@ -1,5 +1,5 @@
 # lendo(read) banco de dados
-from nbformat import write
+# from nbformat import write
 
 
 def ler_banco():#toda função é um verbo
